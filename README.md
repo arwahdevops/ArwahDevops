@@ -1,6 +1,6 @@
-# Hi there, I'm Riki Permana - aka [ArwahDevos](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Riki Permana - aka [ArwahDevos](https://github.com/ArwahDevops) 👋
 ## About me:
-- 🔭 I’m currently working at [PT. Insan Agritama Teknologi](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🔭 I’m currently working at [PT. Insan Agritama Teknologi](https://inagri.asia)
 - 🌱 I’m currently learning everything 🤣
 - ⚡  I’m Automation lover like CI/CD
 - 👯 I’m looking to collaborate as DevOps Engineer
