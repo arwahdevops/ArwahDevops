@@ -32,7 +32,7 @@
    - Manage database server & web application
 #### 4. [Universitas Padjadjaran](https://www.unpad.ac.id) | Programmer/IT Staff | Bandung `February 2013 - January 2015`
    - Create absen application, backoffice application
-   - Develop using c# & python
+   - Develop tools & application using c#, VB.net & python
 
 ---
 
