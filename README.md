@@ -1,10 +1,10 @@
-# Hi there, I'm Riki Permana - aka [ArwahDevos](https://github.com/ArwahDevops) 👋
+# Hi there, I'm Riki Permana - aka [ArwahDevops](https://github.com/ArwahDevops) 👋
 ## About me:
-- 🔭 I’m currently working at [PT. Insan Agritama Teknologi](https://inagri.asia)
+- 🔭 I’m currently working at [Good Games Guild](https://goodgamesguild.com/)
 - 🌱 I’m currently learning everything 🤣
 - ⚡  I’m Automation lover like CI/CD
 - 👯 I’m looking to collaborate as DevOps Engineer
-- 🤔 I’m looking for suggest for Automation and System Engineer
+- 🤔 I’m looking for suggest for Automation and Technical Architect
 - 💬 Ask me about anything
 - 📫 How to reach me: rikipermana@live.com
 
