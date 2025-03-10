@@ -14,29 +14,29 @@
    - Teknik Komputer & Jaringan
 
 ## Work Experience:
-#### 1. [Good Games Guild](https://goodgamesguild.com) | DevOps Engineer | Jakarta `1 Oct 2023 - Jan 2025`
+#### 5. [Good Games Guild](https://goodgamesguild.com) | DevOps Engineer | Jakarta `1 Oct 2023 - Jan 2025`
    - Responsible to improve and realize project delivery as timeline
    - Create wiki's configuration, credentials, etc documentations
    - Setup cloud server, databases, managing Kubernetes Cluster, vpn, vpc, firewall, subnet etc
    - Create automation deployment using gitlab-ci / github actions. 
    - Monitoring day-to-day routine using grafana and prometheus, slack bot, Telegram bot.
-#### 1. [PT. Insan Agritama Teknologi](https://inagri.asia) | DevOps Engineer | Bandung `25 Oct 2021 - Aug 2023`
+#### 4. [PT. Insan Agritama Teknologi](https://inagri.asia) | DevOps Engineer | Bandung `25 Oct 2021 - Aug 2023`
    - Responsible to improve and realize project delivery as timeline
    - Create wiki's configuration, credentials, etc documentations
    - Setup cloud server, databases, api gateway, vpn, jumphost, vpc, firewall, subnet etc
    - Dockerize many micro service project and monolith applications
    - Create automation deployment using gitlab-ci / github actions / jenkins etc
    - Monitoring day-to-day routine using grafana and prometheus, slack bot
-#### 2. [Geoff-Max](https://geoff-max.com) | DevOps Engineer/SysAdmin | Bandung `1 Oct 2018 - 1 Jan 2021`
+#### 3. [Geoff-Max](https://geoff-max.com) | DevOps Engineer/SysAdmin | Bandung `1 Oct 2018 - 1 Jan 2021`
    - Manage server on-premise and cloud
    - Create automation code deployment using gitlab-ci / Jenkins
    - Monitoring resource & application logs using Grafana and Prometheus
    - Research & Maintenance server
-#### 3. [CV. Media Data Solution]() | Programmer | Bandung `March 2015 - November 2017`
+#### 2. [CV. Media Data Solution]() | Programmer | Bandung `March 2015 - November 2017`
    - Manage project POS, minimarket, parking system
    - Development project using C#, VB.net, Python
    - Manage database server & web application
-#### 4. [Universitas Padjadjaran](https://www.unpad.ac.id) | Programmer/IT Staff | Bandung `February 2013 - January 2015`
+#### 1. [Universitas Padjadjaran](https://www.unpad.ac.id) | Programmer/IT Staff | Bandung `February 2013 - January 2015`
    - Create absen application, backoffice application
    - Develop tools & application using c#, VB.net & python
 
