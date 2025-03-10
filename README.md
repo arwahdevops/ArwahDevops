@@ -14,7 +14,13 @@
    - Teknik Komputer & Jaringan
 
 ## Work Experience:
-#### 1. [PT. Insan Agritama Teknologi](https://inagri.asia) | DevOps Engineer | Bandung `25 Oct 2021 - Now`
+#### 1. [Good Games Guild](https://goodgamesguild.com) | DevOps Engineer | Jakarta `1 Oct 2023 - Jan 2025`
+   - Responsible to improve and realize project delivery as timeline
+   - Create wiki's configuration, credentials, etc documentations
+   - Setup cloud server, databases, managing Kubernetes Cluster, vpn, vpc, firewall, subnet etc
+   - Create automation deployment using gitlab-ci / github actions. 
+   - Monitoring day-to-day routine using grafana and prometheus, slack bot, Telegram bot.
+#### 1. [PT. Insan Agritama Teknologi](https://inagri.asia) | DevOps Engineer | Bandung `25 Oct 2021 - Aug 2023`
    - Responsible to improve and realize project delivery as timeline
    - Create wiki's configuration, credentials, etc documentations
    - Setup cloud server, databases, api gateway, vpn, jumphost, vpc, firewall, subnet etc
