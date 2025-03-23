@@ -1,4 +1,4 @@
-# Hi there, I'm Riki Permana - aka [ArwahDevops](https://github.com/ArwahDevops) 👋
+# Hi there, I'm Riki Permana
 ## About me:
 - 🔭 I’m currently working at [Good Games Guild](https://goodgamesguild.com/)
 - 🌱 I’m currently learning everything 🤣
